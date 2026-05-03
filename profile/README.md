@@ -1,10 +1,11 @@
 # Project Koda
 
-Project Koda is an open source initiative focused on rethinking the operating system experience from the ground up.
+Project Koda is so sigma bro
 
 ## Projects
 
-**Hecate** - Bare metal dual OS switching without virtualization
+**depot** - macOS CLI made in *Swift* to install and manage the Procursus apt/dpkg bootstrap under /opt/procursus \
+**Hecate** - Bare metal multi OS switching without virtualization, based on HelenOS - private development for now
 
 ## License
 All OS related projects are licensed under GPL v3/2 <br>
